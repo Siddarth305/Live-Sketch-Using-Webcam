@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#Colouring
 # Our sketch generating function
 def sketch(image):
     # Convert image to grayscale
